@@ -1,0 +1,501 @@
+12:40:19.484 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+12:40:24.497 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+12:40:31.123 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+12:40:31.628 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+12:40:37.698 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+12:40:38.065 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+12:40:43.852 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+12:40:44.177 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+12:40:51.532 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+12:40:51.879 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+12:40:58.700 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+14:10:44.988 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+14:12:00.676 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+14:12:00.699 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+14:12:00.717 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+14:12:00.849 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+14:12:11.342 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+14:12:11.422 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+14:12:13.685 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+14:12:21.818 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+14:12:25.791 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+14:12:32.059 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+14:12:32.654 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+14:12:38.628 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+14:12:39.257 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+14:12:45.628 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+14:12:45.971 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+14:12:53.269 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+14:12:53.727 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+14:13:00.401 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+14:14:59.735 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+14:14:59.756 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+14:14:59.775 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+14:14:59.915 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+14:15:05.084 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+14:15:05.181 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+14:15:07.440 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+14:15:15.362 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+14:15:19.173 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+14:15:25.305 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+14:15:25.769 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+14:15:31.553 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+14:15:31.874 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+14:15:37.585 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+14:15:37.905 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+14:15:43.664 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+14:15:44.035 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+14:15:49.522 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+18:42:58.625 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:42:58.642 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:42:58.653 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:42:58.803 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:43:05.343 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+18:43:05.403 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:43:07.667 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+18:43:15.689 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+18:43:19.787 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+18:43:26.617 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+18:43:26.952 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+18:43:32.719 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+18:43:33.051 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+18:43:39.000 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+18:43:39.274 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+18:43:44.993 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+18:43:45.335 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+18:43:51.030 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+18:57:46.253 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:57:46.273 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:57:46.287 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:57:46.441 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:57:51.510 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+18:57:51.562 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:57:53.807 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+18:58:02.080 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+18:58:06.879 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+18:58:13.353 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+18:58:13.766 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+18:58:19.723 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+18:58:20.118 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+18:58:26.072 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+18:58:26.354 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+18:58:32.996 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+18:58:33.271 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+18:58:39.542 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+19:03:25.735 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+19:03:25.752 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+19:03:25.764 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+19:03:25.898 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+19:03:33.739 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+19:03:33.796 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+19:03:36.060 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+19:03:43.908 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+19:03:47.719 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+19:03:53.482 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+19:03:53.866 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+19:03:59.289 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+19:03:59.632 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+19:04:06.241 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+19:04:06.530 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+19:04:12.267 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+19:04:12.563 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+19:04:18.346 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+19:51:24.176 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+19:51:24.194 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+19:51:24.206 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+19:51:24.338 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+19:51:30.694 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+19:51:30.756 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+19:51:33.041 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+19:51:40.827 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+19:51:44.300 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+19:51:49.790 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+19:51:50.152 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+19:51:55.380 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+19:51:55.760 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+19:52:01.241 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+19:52:01.547 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+19:52:07.847 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+19:52:08.132 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+19:52:13.473 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+19:52:13.773 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+19:52:19.007 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+19:52:19.343 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+19:52:24.539 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+19:52:24.835 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+19:52:30.010 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+19:52:30.314 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+19:52:35.626 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+19:52:35.941 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+19:52:41.112 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+20:28:25.369 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+20:28:25.388 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+20:28:25.407 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+20:28:25.538 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+20:28:31.453 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+20:28:31.557 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+20:28:33.852 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+20:28:41.808 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+20:28:46.044 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+20:28:52.217 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+20:28:52.705 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+20:28:58.374 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+20:28:58.793 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+20:29:08.611 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+20:29:09.058 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+20:29:19.199 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+20:29:19.629 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+20:29:25.983 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+20:29:26.293 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+20:29:32.267 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+20:29:32.609 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+20:29:38.366 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+20:29:38.773 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+20:29:45.020 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+20:29:45.419 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+20:29:51.540 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+20:29:52.225 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+20:29:58.082 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+20:29:58.530 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+20:30:04.213 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Macbook Pro
+20:54:21.393 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+20:54:21.417 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+20:54:21.432 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+20:54:21.562 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+20:54:35.748 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+20:54:35.881 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+20:54:38.219 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+20:54:46.281 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+21:42:06.189 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+21:42:06.221 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+21:42:06.242 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+21:42:06.398 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+21:42:41.807 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+21:42:41.920 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+21:42:44.202 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+21:42:52.454 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+21:42:58.587 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:43:12.028 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+21:43:12.494 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:43:18.762 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+21:43:19.288 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+21:43:26.451 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+21:43:26.858 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+21:43:33.845 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+21:43:34.310 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+21:43:41.538 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+21:43:41.968 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:43:47.364 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+21:43:47.731 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:43:53.672 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+21:43:54.016 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+21:43:59.597 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+21:44:00.086 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+21:44:06.110 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+21:44:06.496 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+21:44:12.056 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+21:44:12.470 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:44:18.397 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Macbook Pro
+21:50:35.418 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+21:50:35.442 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+21:50:35.459 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+21:50:35.598 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+21:50:53.255 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+21:50:53.359 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+21:50:55.619 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+21:51:03.956 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+21:51:18.234 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:51:28.453 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+21:51:28.902 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:51:48.775 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+21:51:49.222 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+21:52:08.308 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+21:52:08.716 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+21:52:18.015 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+21:52:18.464 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+21:52:30.558 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+21:52:30.924 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:52:37.227 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+21:52:37.640 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:52:43.410 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+21:52:43.810 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+21:52:49.440 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+21:52:49.803 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+21:52:55.981 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+21:52:56.389 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+21:53:02.829 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+21:53:03.162 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+21:53:09.021 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Macbook Pro
+22:12:07.150 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+22:12:07.168 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+22:12:07.179 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+22:12:07.311 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+22:14:18.854 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+22:14:18.918 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+22:25:04.057 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+22:25:04.079 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+22:25:04.095 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+22:25:04.232 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+22:27:10.702 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+22:27:10.729 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+22:27:10.744 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+22:27:10.884 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+22:27:14.444 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+22:27:14.542 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+22:27:16.870 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+22:27:24.507 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+22:27:27.909 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+22:27:31.443 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+22:27:31.849 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+22:27:34.777 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+22:27:35.262 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+22:27:38.261 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+22:27:38.570 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+22:27:41.745 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+22:27:42.242 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+22:27:45.528 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+22:27:45.891 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+22:27:49.081 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+22:27:49.461 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+22:27:52.644 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+22:27:53.175 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+22:27:56.331 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+22:27:56.655 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+22:27:59.669 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+22:28:00.093 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+22:28:03.328 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+22:28:03.757 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+22:28:07.027 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Macbook Pro
+22:28:13.026 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+22:28:15.763 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+05:36:19.780 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+05:36:19.821 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+05:36:19.834 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+05:36:19.961 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+05:37:23.334 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+05:37:23.401 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+05:37:25.657 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+05:37:33.672 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+05:38:10.393 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:39:46.023 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+05:39:48.593 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:44:31.850 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+05:44:31.879 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+05:44:31.896 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+05:44:32.071 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+05:44:40.829 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+05:44:40.908 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+05:44:43.225 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+05:44:51.356 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+05:44:55.013 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:44:59.335 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+05:44:59.771 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:45:03.797 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+05:45:04.232 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+05:45:11.422 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+05:45:11.747 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+05:45:16.193 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+05:45:16.498 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+05:45:21.514 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+05:45:21.845 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:45:25.556 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+05:45:25.901 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:45:29.497 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+05:45:29.834 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+05:45:34.181 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+05:45:34.488 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+05:45:38.033 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+05:45:38.408 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+05:45:41.596 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+05:45:42.023 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:45:45.230 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Macbook Pro
+05:45:50.958 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+05:45:54.246 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+05:49:20.649 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+05:49:20.666 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+05:49:20.680 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+05:49:20.809 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+05:49:24.425 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+05:49:24.501 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+05:49:26.851 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+05:49:34.902 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+05:49:38.291 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:49:41.940 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+05:50:17.310 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:50:20.755 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+05:50:53.583 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+05:50:56.911 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+05:50:59.120 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+05:51:02.528 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+05:51:34.397 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+05:51:37.701 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+05:52:10.265 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:52:13.578 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+05:52:15.363 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:52:18.880 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+05:52:20.479 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+05:52:23.950 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+05:52:25.758 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+05:52:29.143 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+05:52:30.856 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+05:52:34.101 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+05:52:36.365 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+05:52:39.726 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Macbook Pro
+05:53:15.745 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+05:53:18.835 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+08:33:20.103 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+08:33:20.175 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+08:33:20.189 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+08:33:20.322 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+08:33:24.507 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+08:33:24.598 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+08:33:26.945 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+08:33:35.370 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+08:33:38.910 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:33:42.389 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:33:47.087 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:33:50.691 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+08:33:54.319 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+08:33:58.316 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+08:34:02.504 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+08:34:05.920 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+08:34:07.990 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+08:34:11.428 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+08:34:13.981 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:34:17.430 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:34:19.382 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:34:22.986 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+08:34:24.845 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+08:34:28.363 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+08:34:30.005 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+08:34:33.385 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+08:34:35.136 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+08:34:38.446 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+08:34:40.378 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:34:43.780 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Macbook Pro
+08:35:19.785 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+08:35:22.847 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+08:39:16.870 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+08:39:16.888 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+08:39:16.907 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+08:39:17.042 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+08:39:21.653 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+08:39:21.748 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+08:39:24.048 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+08:39:32.311 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+08:39:36.550 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:39:41.034 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:39:52.252 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:39:56.188 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+08:39:59.624 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+08:40:03.712 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+08:40:07.909 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+08:40:12.539 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+08:40:14.608 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+08:40:19.532 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+08:40:23.208 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:40:26.927 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:40:29.422 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:40:33.094 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+08:40:35.646 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+08:40:39.269 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+08:40:42.247 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+08:40:46.442 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+08:40:49.053 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+08:40:52.851 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+08:40:55.643 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:40:59.333 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:41:01.429 [main] INFO  com.qa.opencart.pages.ProductsDetailsPage - productMetaDataList size is:
+08:41:01.636 [main] INFO  com.qa.opencart.pages.ProductsDetailsPage - ProductPriceList size is:2
+08:41:08.712 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+08:41:11.910 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+08:42:37.035 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+08:42:37.053 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+08:42:37.063 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+08:42:37.203 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+08:42:41.712 [main] INFO  com.qa.opencart.testcase.ProductsDetailsPageTest - intializing the page class objects
+08:42:41.803 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+08:42:44.199 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+08:42:52.413 [main] INFO  com.qa.opencart.pages.LoginPage - click on login button
+08:42:56.253 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:43:05.209 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:43:16.376 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:43:22.155 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+08:43:26.918 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+08:43:31.351 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+08:43:36.492 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+08:43:45.793 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+08:43:49.113 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+08:43:57.796 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+08:44:00.916 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:44:04.319 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:44:06.876 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:44:10.568 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Air
+08:44:13.303 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:imac
+08:44:16.929 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:iMac
+08:44:21.473 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:samsung
+08:44:25.279 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Samsung SyncMaster 941BW
+08:44:30.171 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Apple
+08:44:33.453 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:Apple Cinema 30"
+08:44:35.895 [main] INFO  com.qa.opencart.pages.MyAccountPage - search product name in search edit box:Macbook
+08:44:39.617 [main] INFO  com.qa.opencart.pages.ResultsPage - select product name:MacBook Pro
+08:44:41.612 [main] INFO  com.qa.opencart.pages.ProductsDetailsPage - productMetaDataList size is:
+08:44:42.053 [main] INFO  com.qa.opencart.pages.ProductsDetailsPage - ProductPriceList size is:2
+08:44:48.230 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+08:44:51.385 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:02:01.454 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:02:01.483 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+11:02:01.501 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+11:02:01.632 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+11:02:06.843 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+11:02:07.191 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+11:02:07.566 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:02:07.586 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+11:02:07.596 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:02:07.823 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:02:07.845 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+11:02:07.846 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+11:02:07.846 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:02:10.086 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+11:02:13.439 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+11:02:13.465 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+11:02:13.471 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+11:02:13.472 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+11:02:13.472 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+11:02:14.352 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:02:14.367 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+11:02:14.367 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:02:16.581 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+11:02:19.546 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+11:02:19.555 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+11:02:19.556 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+11:02:19.556 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+11:02:20.501 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:02:22.384 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:02:22.408 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+11:02:22.414 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+11:02:22.540 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+11:02:25.553 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+11:02:29.249 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:02:31.489 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+11:02:34.854 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+11:02:34.883 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+11:02:34.888 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:Vandana
+11:02:34.889 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+11:02:37.396 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the last Name:senthil
+11:02:37.396 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering lastName value
+11:02:39.907 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - setting the email:DkNfH@gmail.com
+11:02:39.907 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering email address value
+11:02:42.404 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the telephone nbr:3146069849
+11:02:42.404 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering telephone number
+11:02:44.866 [main] INFO  com.qa.opencart.pages.RegistrationPage - enter the company name in company editbox
+11:02:47.493 [main] INFO  com.qa.opencart.pages.RegistrationPage - enter the address in address editbox
+11:02:49.942 [main] INFO  com.qa.opencart.pages.RegistrationPage - enter the address in address editbox
+11:02:52.507 [main] INFO  com.qa.opencart.pages.RegistrationPage - enter the city in city editbox
+11:02:54.986 [main] INFO  com.qa.opencart.pages.RegistrationPage - enter the postcode in postcode editbox
+11:02:57.564 [main] INFO  com.qa.opencart.pages.RegistrationPage - select option from country dropdown
+11:02:57.862 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Selected option : United States
+11:02:57.862 [main] INFO  com.qa.opencart.pages.RegistrationPage - select option from state dropdown
+11:02:58.182 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Selected option : California
+11:02:58.183 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the password:vandana@123
+11:02:58.183 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering password value

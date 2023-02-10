@@ -1,0 +1,521 @@
+06:22:36.492 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:22:36.591 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:22:36.606 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:22:36.791 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:22:38.284 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:31:53.474 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:31:53.519 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:31:53.554 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:31:53.809 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:31:55.017 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:38:04.344 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:38:04.375 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:38:04.420 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:38:04.654 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:38:06.854 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:38:07.310 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+06:38:10.230 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+06:38:10.263 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:38:10.584 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+06:38:10.584 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+06:38:10.584 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:39:42.121 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+06:39:42.124 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:47:05.144 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:47:05.216 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:47:05.243 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:47:05.483 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:47:06.958 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:47:07.846 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+06:47:10.835 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+06:47:10.885 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:47:11.239 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+06:47:11.239 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+06:47:11.239 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:47:13.645 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+06:47:17.524 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+06:47:17.524 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:47:19.805 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+06:47:23.008 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+06:47:23.018 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+06:47:23.018 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+06:47:23.019 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+06:47:24.058 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:50:11.769 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:50:11.800 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:50:11.837 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:50:12.103 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:50:14.236 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:50:14.876 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+06:50:17.712 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+06:50:17.731 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:50:18.023 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+06:50:18.024 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+06:50:18.024 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:50:20.455 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+06:50:24.130 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPgthe page title
+06:50:24.146 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+06:50:24.158 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+06:50:24.158 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+06:50:24.159 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+06:50:24.665 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+06:50:24.665 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:50:26.906 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+06:50:29.903 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+06:50:29.918 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+06:50:29.918 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+06:50:29.919 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+06:50:30.925 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:52:34.667 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:52:34.702 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:52:34.722 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:52:34.896 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:52:36.298 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:52:36.950 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+06:52:39.720 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+06:52:39.743 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:52:40.074 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+06:52:40.075 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+06:52:40.075 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:52:42.472 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+06:52:45.867 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPgthe page title
+06:52:45.887 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+06:52:45.907 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+06:52:45.907 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+06:52:45.908 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+06:52:45.972 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+06:52:46.402 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+06:52:46.403 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:52:48.626 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+06:52:51.775 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+06:52:51.792 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+06:52:51.792 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+06:52:51.792 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+06:52:53.150 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:54:59.336 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:54:59.362 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:54:59.382 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:54:59.550 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:55:01.086 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:55:01.825 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+06:55:04.579 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+06:55:04.604 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:55:04.893 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+06:55:04.893 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+06:55:04.893 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:55:07.257 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+06:55:10.654 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPgthe page title
+06:55:10.663 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+06:55:10.674 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+06:55:10.674 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+06:55:10.674 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+06:55:10.729 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+06:55:11.213 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+06:55:11.213 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:55:13.452 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+06:55:16.458 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+06:55:16.472 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+06:55:16.472 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+06:55:16.472 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+06:55:17.584 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+07:01:53.825 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+07:01:53.873 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+07:01:53.889 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+07:01:54.053 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+07:01:55.794 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+07:01:56.477 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+07:01:59.591 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+07:01:59.620 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+07:01:59.903 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+07:01:59.903 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+07:01:59.903 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+07:02:02.257 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+07:02:05.714 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPgthe page title
+07:02:05.726 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+07:02:05.733 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+07:02:05.733 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+07:02:05.733 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+07:02:06.537 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+07:02:06.861 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+07:02:06.861 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+07:02:09.194 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+07:02:12.620 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+07:02:12.640 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+07:02:12.640 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+07:02:12.641 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+07:02:13.805 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:45:50.493 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:52:21.137 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:55:58.707 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:51:20.518 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:51:20.548 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:51:20.567 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:51:20.747 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:51:27.474 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+18:51:27.921 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+18:51:30.588 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:51:30.627 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+18:51:30.653 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:51:31.084 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:51:31.104 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+18:51:31.104 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+18:51:31.104 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:51:33.390 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+18:51:37.397 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+18:51:37.412 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+18:51:37.419 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+18:51:37.419 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+18:51:37.419 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+18:51:38.716 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:51:38.740 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+18:51:38.740 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:51:41.016 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+18:52:23.939 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+18:52:23.949 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+18:52:23.949 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+18:52:23.950 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+18:52:25.182 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:52:28.255 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:52:28.317 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:52:28.321 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:52:28.450 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:52:30.944 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+18:52:30.948 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:52:33.170 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+18:52:36.729 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+18:52:36.747 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+18:52:36.749 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:hPhht
+18:52:36.749 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+18:52:39.054 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the last Name:jkzmK
+18:52:39.054 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering lastName value
+18:52:41.464 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the email:pzpNb
+18:52:41.464 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering email address value
+18:52:43.794 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the telephone nbr:8910788547
+18:52:43.794 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering telephone number
+18:52:46.190 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the password:kZcK@076
+18:52:46.190 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering password value
+18:52:48.518 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the confirm password:kZcK@076
+18:52:48.519 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering PasswordConfirm value
+18:52:50.772 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Select the subscribe radio button:Yes
+18:52:50.772 [main] INFO  com.qa.opencart.pages.RegistrationPage - select Subscribe value
+18:52:50.772 [main] INFO  com.qa.opencart.pages.RegistrationPage - Select Yes radio button
+18:55:59.739 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:55:59.766 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:55:59.779 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:55:59.941 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:56:02.678 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+18:56:02.935 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+18:56:05.462 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:56:05.479 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+18:56:05.488 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:56:05.805 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:56:05.821 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+18:56:05.821 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+18:56:05.821 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:56:08.039 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+18:56:11.426 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+18:56:11.436 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+18:56:11.443 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+18:56:11.444 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+18:56:11.444 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+18:56:12.253 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:56:12.268 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+18:56:12.268 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:56:14.480 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+18:56:17.422 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+18:56:17.429 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+18:56:17.429 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+18:56:17.429 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+18:56:18.650 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:56:20.304 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:56:20.330 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:56:20.334 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:56:20.463 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:56:23.069 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+18:56:23.071 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:56:25.288 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+18:56:28.710 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+18:56:28.727 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+18:56:28.729 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:fEEOM
+18:56:28.729 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+18:56:31.003 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the last Name:fYNkK
+18:56:31.004 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering lastName value
+18:56:33.393 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the email:NaTMp
+18:56:33.394 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering email address value
+18:56:35.788 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the telephone nbr:7509132135
+18:56:35.789 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering telephone number
+18:56:38.223 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the password:JhYa@786
+18:56:38.223 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering password value
+18:56:40.586 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the confirm password:JhYa@786
+18:56:40.587 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering PasswordConfirm value
+18:56:42.892 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Select the subscribe radio button:Yes
+18:56:42.892 [main] INFO  com.qa.opencart.pages.RegistrationPage - select Subscribe value
+18:56:42.892 [main] INFO  com.qa.opencart.pages.RegistrationPage - Select Yes radio button
+21:44:45.181 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+21:44:45.250 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+21:44:45.266 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+21:44:45.411 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+21:44:52.575 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+21:44:52.860 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+21:44:53.376 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+21:44:53.394 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+21:44:53.403 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+21:44:53.743 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+21:44:53.759 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+21:44:53.759 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+21:44:53.759 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+21:44:56.008 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+21:45:01.018 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+21:45:01.029 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+21:45:01.038 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+21:45:01.038 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+21:45:01.038 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+21:45:02.026 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+21:45:02.045 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+21:45:02.045 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+21:45:04.287 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+21:45:07.403 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+21:45:07.411 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+21:45:07.412 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+21:45:07.412 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+21:45:08.553 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:10:04.032 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:10:04.108 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+11:10:04.125 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+11:10:04.265 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+11:10:09.444 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+11:10:09.737 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+11:10:10.156 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:10:10.189 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+11:10:10.199 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:10:10.435 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:10:10.458 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+11:10:10.458 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+11:10:10.458 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:10:12.710 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+11:10:16.254 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+11:10:16.265 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+11:10:16.272 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+11:10:16.272 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+11:10:16.272 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+11:10:17.407 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:10:17.425 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+11:10:17.426 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:10:19.674 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+11:10:22.989 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+11:10:22.996 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+11:10:22.997 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+11:10:22.997 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+11:10:24.739 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:08:44.537 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:08:44.627 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+11:08:44.643 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+11:08:44.767 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+11:08:49.669 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+11:08:50.026 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+11:08:50.474 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:08:50.496 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+11:08:50.505 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:08:50.722 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:08:50.742 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+11:08:50.743 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+11:08:50.743 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:08:53.016 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+11:08:56.349 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+11:08:56.364 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+11:08:56.371 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+11:08:56.371 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+11:08:56.371 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+11:08:57.219 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:08:57.236 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+11:08:57.236 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:08:59.475 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+11:09:02.289 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+11:09:02.296 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+11:09:02.297 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+11:09:02.298 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+11:09:03.433 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:09:05.389 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:09:05.407 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+11:09:05.412 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+11:09:05.540 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+11:09:09.705 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+11:09:10.256 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:09:12.459 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+11:09:15.727 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+11:09:15.759 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+11:09:15.764 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - navigate to registration page
+11:09:15.765 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:ycAJA
+11:09:15.765 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+11:16:31.743 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+11:16:31.770 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+11:16:31.797 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+11:16:31.942 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+11:16:40.893 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+11:16:41.199 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+11:16:41.617 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:16:41.639 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+11:16:41.648 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:16:42.030 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:16:42.060 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+11:16:42.060 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+11:16:42.060 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:16:44.316 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+11:16:47.671 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+11:16:47.681 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+11:16:47.688 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+11:16:47.688 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+11:16:47.688 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+11:16:48.609 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:16:48.696 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+11:16:48.697 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+11:16:51.041 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+11:16:54.045 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+11:16:54.069 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+11:16:54.069 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+11:16:54.070 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+11:16:54.964 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+11:16:55.287 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+06:07:30.270 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:07:30.304 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:07:30.319 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:07:30.460 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:07:34.204 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:07:34.570 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+06:07:35.021 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:07:35.043 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+06:07:35.056 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:07:35.293 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:07:35.337 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+06:07:35.337 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+06:07:35.338 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:07:37.648 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+06:07:41.631 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+06:07:41.697 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+06:07:41.769 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+06:07:41.769 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+06:07:41.770 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+06:07:43.064 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:07:43.089 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+06:07:43.089 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:07:45.413 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+06:07:49.097 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+06:07:49.111 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+06:07:49.111 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+06:07:49.111 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+06:07:50.549 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:07:52.258 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+06:07:54.836 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:23:48.710 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+06:23:48.729 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+06:23:48.744 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+06:23:48.887 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+06:23:59.091 [main] INFO  com.qa.opencart.testcase.HomePageTest - initialising the page class objects
+06:23:59.389 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the home page logo text
+06:23:59.869 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:23:59.886 [main] INFO  com.qa.opencart.testcase.HomePageTest - Verify the opencart title
+06:23:59.894 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:24:00.235 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:24:00.256 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_03_navigate to registration page
+06:24:00.256 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on my Account menu
+06:24:00.257 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:24:02.572 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+06:24:08.443 [main] INFO  com.qa.opencart.testcase.HomePageTest - wait for regPg title
+06:24:08.456 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the Registration page title
+06:24:08.464 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+06:24:08.464 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Registration page
+06:24:08.464 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on Home Icon
+06:24:11.575 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:24:11.591 [main] INFO  com.qa.opencart.testcase.HomePageTest - TC_04_navigate to login page
+06:24:11.592 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+06:24:13.835 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+06:24:18.322 [main] INFO  com.qa.opencart.testcase.HomePageTest - Assert the login page title
+06:24:18.330 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+06:24:18.331 [main] INFO  com.qa.opencart.testcase.HomePageTest - Click on Home icon in Login page
+06:24:18.331 [main] INFO  com.qa.opencart.pages.LoginPage - click on home icon
+06:24:20.892 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+06:24:21.318 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+16:03:46.083 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+16:03:46.158 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+16:03:46.184 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+16:03:46.323 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+16:03:56.049 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+16:04:00.396 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+16:04:02.710 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+16:04:07.098 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+16:04:07.137 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+16:04:07.170 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - navigate to registration page
+16:04:07.172 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:KjQyw
+16:04:07.173 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+16:17:18.907 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+16:17:18.932 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+16:17:18.949 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+16:17:19.081 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+16:17:24.072 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+16:17:28.220 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+16:17:30.531 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+16:17:34.037 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+16:17:34.070 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+16:17:34.161 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - navigate to registration page
+16:17:34.164 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:OSeke
+16:17:34.164 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+16:31:00.301 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+16:31:00.318 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+16:31:00.329 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+16:31:00.468 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+16:31:31.865 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+16:31:34.942 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+16:31:37.280 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+16:31:42.855 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+16:31:42.886 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+16:31:43.116 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - navigate to registration page
+16:31:43.118 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:ZLHhA
+16:31:43.118 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+16:37:33.635 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+16:37:33.660 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+16:37:33.675 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+16:37:33.809 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+16:37:45.865 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+16:37:48.942 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+16:37:51.290 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+16:37:56.861 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+16:37:56.891 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+16:37:57.150 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - navigate to registration page
+16:37:57.151 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:IgyQC
+16:37:57.152 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+17:11:22.937 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:11:22.958 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:11:22.973 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:11:23.120 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:12:32.918 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+17:12:41.146 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+17:12:44.202 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+17:12:49.705 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+17:12:49.738 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:12:50.078 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - navigate to registration page
+17:12:50.080 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - Set the firstName:GROEO
+17:12:50.081 [main] INFO  com.qa.opencart.pages.RegistrationPage - entering the fname value
+17:22:41.032 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:22:41.127 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:22:41.140 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:22:41.265 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:27:10.817 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:27:10.835 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:27:10.847 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:27:10.975 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:28:44.095 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+17:28:46.300 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+17:30:30.971 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:30:30.987 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:30:30.996 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:30:31.138 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:40:46.712 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:40:46.737 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:40:46.764 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:40:46.948 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:42:01.784 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - intialising the page class objects
+18:42:06.008 [main] INFO  com.qa.opencart.pages.HomePage - opening the myAccount menu
+18:42:08.305 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+18:42:13.037 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - verify the registration page title
+18:42:13.078 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+18:42:13.109 [main] INFO  com.qa.opencart.testcase.RegistrationPageTest - navigate to registration page

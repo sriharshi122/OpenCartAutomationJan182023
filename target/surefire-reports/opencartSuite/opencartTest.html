@@ -1,0 +1,320 @@
+<html>
+<head>
+<title>TestNG:  opencartTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>opencartTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>48/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Feb 10 11:01:57 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>605 seconds (605553 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.loginTest()'><b>loginTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_09_login to the open cart page</td>
+<td></td>
+<td>7</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.registrationDataDrivenTest()'><b>registrationDataDrivenTest</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Parameters: Vandana, senthil, 3146069849, vandana@123, yes</td>
+<td></td>
+<td>52</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productHeaderTest()'><b>productHeaderTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: Apple, Apple Cinema 30"</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.productSearchTest()'><b>productSearchTest</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_07_validating product search<br>Parameters: iMac</td>
+<td></td>
+<td>8</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.verifyingMyAccHeaderList()'><b>verifyingMyAccHeaderList</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_06_Verifying MyAccHeaderList</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productHeaderTest()'><b>productHeaderTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: Macbook, MacBook Pro</td>
+<td></td>
+<td>5</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productHeaderTest()'><b>productHeaderTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: imac, iMac</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.productSearchTest()'><b>productSearchTest</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_07_validating product search<br>Parameters: MacBook</td>
+<td></td>
+<td>8</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.verifyForgotPswdExistsTest()'><b>verifyForgotPswdExistsTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_05_verifying ForgotPswdExists</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.registrationPgNegativeCases()'><b>registrationPgNegativeCases</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Test method: TC_02_Giving different pswds for pswd and confirm pswd</td>
+<td></td>
+<td>36</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.validatingLoginPgLink()'><b>validatingLoginPgLink</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Test method: TC_01_Validating Register page login link</td>
+<td></td>
+<td>2</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.HomePageTest.navigateToRegistrationPageTest()'><b>navigateToRegistrationPageTest</b><br>Test class: com.qa.opencart.testcase.HomePageTest<br>Test method: TC_03_navigate to registration page</td>
+<td></td>
+<td>6</td>
+<td>com.qa.opencart.testcase.HomePageTest@21f9277b</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.verifyingMyAccountPgUrl()'><b>verifyingMyAccountPgUrl</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_01_verifying MyAccount Page Url</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.validatingForgottenPswdLinkTest()'><b>validatingForgottenPswdLinkTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_07_validatingForgottenPswdLinkTest</td>
+<td></td>
+<td>3</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productMetaDataTest()'><b>productMetaDataTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.HomePageTest.verifyOpenCartLogoTest()'><b>verifyOpenCartLogoTest</b><br>Test class: com.qa.opencart.testcase.HomePageTest<br>Test method: TC_01_Verifying the opencartLogo</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.HomePageTest@21f9277b</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ForgotPswdPageTest.setRandomEmailTest()'><b>setRandomEmailTest</b><br>Test class: com.qa.opencart.testcase.ForgotPswdPageTest<br>Test method: TC_03_positive case</td>
+<td></td>
+<td>10</td>
+<td>com.qa.opencart.testcase.ForgotPswdPageTest@4aac85fa</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productImagesTest()'><b>productImagesTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: Macbook, MacBook Pro, 4</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productImagesTest()'><b>productImagesTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: Apple, Apple Cinema 30", 6</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.validatingPrivacyPolicyLink()'><b>validatingPrivacyPolicyLink</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Test method: Tc_03_Validating privacy policy link</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productImagesTest()'><b>productImagesTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: Macbook, MacBook Air, 4</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.verifyingIsRegisterAccountTextAvailableTest()'><b>verifyingIsRegisterAccountTextAvailableTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_06_verifying RegisterAccountTextAvailable</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ForgotPswdPageTest.verifyIsForgotYourPswdHeaderTxtAvailableTest()'><b>verifyIsForgotYourPswdHeaderTxtAvailableTest</b><br>Test class: com.qa.opencart.testcase.ForgotPswdPageTest<br>Test method: TC_01_verifying isForgotYourPswdHeaderTxtAvailable</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.ForgotPswdPageTest@4aac85fa</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.existingEmailErrMsg()'><b>existingEmailErrMsg</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Test method: TC_05_Giving existing email</td>
+<td></td>
+<td>38</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productHeaderTest()'><b>productHeaderTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: Macbook, MacBook Air</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ForgotPswdPageTest.verifyIsYourEmailAddrTxtAvailableTest()'><b>verifyIsYourEmailAddrTxtAvailableTest</b><br>Test class: com.qa.opencart.testcase.ForgotPswdPageTest<br>Test method: TC_02_verifying is Your EmailAddrTxtAvailable</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.ForgotPswdPageTest@4aac85fa</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ForgotPswdPageTest.withoutFillingEmailTest()'><b>withoutFillingEmailTest</b><br>Test class: com.qa.opencart.testcase.ForgotPswdPageTest<br>Test method: TC_04_Validating continue button</td>
+<td></td>
+<td>7</td>
+<td>com.qa.opencart.testcase.ForgotPswdPageTest@4aac85fa</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.verifyLoginPgUrlTest()'><b>verifyLoginPgUrlTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_02_verifying LoginPage Url</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.verifyingMyAccountPgTitle()'><b>verifyingMyAccountPgTitle</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_02_verifying my account page title</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.verifyingSearchBoxExistsTest()'><b>verifyingSearchBoxExistsTest</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_03_Verifying search box exists or not</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.productSearchTest()'><b>productSearchTest</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_07_validating product search<br>Parameters: Samsung</td>
+<td></td>
+<td>8</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productImagesTest()'><b>productImagesTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: samsung, Samsung SyncMaster 941BW, 1</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ForgotPswdPageTest.navigatingToForgotPswdPgFromRegPgTest()'><b>navigatingToForgotPswdPgFromRegPgTest</b><br>Test class: com.qa.opencart.testcase.ForgotPswdPageTest<br>Test method: TC_06_click on forgotPswdLink from register page</td>
+<td></td>
+<td>7</td>
+<td>com.qa.opencart.testcase.ForgotPswdPageTest@4aac85fa</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.verifyingMyAccMenuOptionList()'><b>verifyingMyAccMenuOptionList</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_05_Verifying MyAccMenuOptionList</td>
+<td></td>
+<td>2</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productHeaderTest()'><b>productHeaderTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: samsung, Samsung SyncMaster 941BW</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ForgotPswdPageTest.validatingBackLinkTest()'><b>validatingBackLinkTest</b><br>Test class: com.qa.opencart.testcase.ForgotPswdPageTest<br>Test method: TC_05_validating back link</td>
+<td></td>
+<td>2</td>
+<td>com.qa.opencart.testcase.ForgotPswdPageTest@4aac85fa</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.HomePageTest.verifyOpenCartTitleTest()'><b>verifyOpenCartTitleTest</b><br>Test class: com.qa.opencart.testcase.HomePageTest<br>Test method: TC_02_Verifying the opencart Title</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.HomePageTest@21f9277b</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.verifyingIsNewCustomerHeaderTextAvailableTest()'><b>verifyingIsNewCustomerHeaderTextAvailableTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_03_verifying NewCustomer Header Text Available</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.validatingLoginPgContinueBtnTest()'><b>validatingLoginPgContinueBtnTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_08_validatingForgottenPswdLinkTest</td>
+<td></td>
+<td>3</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.verifyingIsReturningCustomerHeaderTextTest()'><b>verifyingIsReturningCustomerHeaderTextTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_04_verifying Returning Customer HeaderText</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.MyAccountPageTest.verifyingLogoutExistsTest()'><b>verifyingLogoutExistsTest</b><br>Test class: com.qa.opencart.testcase.MyAccountPageTest<br>Test method: TC_04_verifying Logout link Exists or not</td>
+<td></td>
+<td>2</td>
+<td>com.qa.opencart.testcase.MyAccountPageTest@1e6308a9</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.ProductsDetailsPageTest.productImagesTest()'><b>productImagesTest</b><br>Test class: com.qa.opencart.testcase.ProductsDetailsPageTest<br>Parameters: imac, iMac, 3</td>
+<td></td>
+<td>4</td>
+<td>com.qa.opencart.testcase.ProductsDetailsPageTest@30cecdca</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.registrationDataDrivenTest()'><b>registrationDataDrivenTest</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Parameters: harshini, ch, 6303236395, harshini@123, yes</td>
+<td></td>
+<td>52</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.registrationTest()'><b>registrationTest</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest</td>
+<td></td>
+<td>51</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.LoginPageTest.verifyLoginPgTitleTest()'><b>verifyLoginPgTitleTest</b><br>Test class: com.qa.opencart.testcase.LoginPageTest<br>Test method: TC_01_verifying LoginPg title</td>
+<td></td>
+<td>0</td>
+<td>com.qa.opencart.testcase.LoginPageTest@21fff664</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.HomePageTest.navigateToLoginPageTest()'><b>navigateToLoginPageTest</b><br>Test class: com.qa.opencart.testcase.HomePageTest<br>Test method: TC_04_navigate to login page</td>
+<td></td>
+<td>5</td>
+<td>com.qa.opencart.testcase.HomePageTest@21f9277b</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.registrationDataDrivenTest()'><b>registrationDataDrivenTest</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Parameters: sreedevi, Doolla, 9980193573, sridevi@123, no</td>
+<td></td>
+<td>53</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+<tr>
+<td title='com.qa.opencart.testcase.RegistrationPageTest.registerPgContinueBtn()'><b>registerPgContinueBtn</b><br>Test class: com.qa.opencart.testcase.RegistrationPageTest<br>Test method: TC_04_Click on register pg continue button</td>
+<td></td>
+<td>2</td>
+<td>com.qa.opencart.testcase.RegistrationPageTest@66bfd864</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,2 @@
+cd D:\Harshini_eclips_workspace\OpenCartAutomationJan182023
+mvn clean install

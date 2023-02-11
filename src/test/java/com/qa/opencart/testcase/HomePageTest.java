@@ -24,7 +24,7 @@ public class HomePageTest extends TestBase{
 		  homePg=new HomePage(driver);
 		  regPg=new RegistrationPage(driver);
 		  loginPg= new LoginPage(driver);
-		  
+		  log.info("This is Home Page Test");
 	  }
   @BeforeMethod
   public void beforeMethod() {
